@@ -1,10 +1,12 @@
 [
   {
-    "title": "hello world",
-    "text": "First note \n"
+    "title": "Note test",
+    "text": "test id",
+    "id": "0628eafd-2079-441b-815d-3c12c5a15230"
   },
   {
-    "title": "Test Note #2",
-    "text": "This is a second test note to finalize proper function"
+    "title": "Note test #2",
+    "text": "Testing uuidv4  functionality",
+    "id": "0da3fae6-c221-4782-ab5f-9945d8c33f25"
   }
 ]
