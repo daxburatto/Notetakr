@@ -1,12 +1,12 @@
 const router = require('express').Router()
-const db = require('../../db/db.json')
+const db = require('../../notes/db.json')
 const { saveNote, findById, deleteNote } = require('../../lib/notes')
 
-router.get('/db', (req, res) => {
+router.get('/notes', (req, res) => {
     res.json(db)
 })
 
-router.delete('/db/:id', (req, res) => {
+router.delete('/notes/:id', (req, res) => {
     const result = findById(req.params.id, db)
     if (result) {
         deleteNote(req.params.id, db)
@@ -16,7 +16,7 @@ router.delete('/db/:id', (req, res) => {
     }
 })
 
-router.post('/db', (req, res) => {
+router.post('/notes', (req, res) => {
     const note = saveNote(req.body, db)
     res.json(note)
 })
