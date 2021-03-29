@@ -24,3 +24,11 @@ Organization
 ## Credits
 
 Email: daxburatto@gmail.com
+
+# Built Using
+
+* HTML
+* JS
+* Node
+* CSS
+* Heroku 
