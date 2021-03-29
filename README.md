@@ -27,7 +27,7 @@ Organization
 
 Email: daxburatto@gmail.com
 
-# Built Using
+## Built Using
 
 * HTML
 * JS
@@ -36,4 +36,5 @@ Email: daxburatto@gmail.com
 * Heroku
 
 ![Screenshot 1](public\assets\images\Screenshot 2021-03-29 132224.jpg)
+
 ![Screenshot 2](public\assets\images\Screenshot 2021-03-29 132137.jpg)
