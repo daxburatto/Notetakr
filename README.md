@@ -6,6 +6,8 @@ By daxburatto
 
 Notetakr is a simple app for people who need a clean and quick note taking app, you can enter a title and body of your note and save and delete them at your needs
 
+[Deploy](https://calm-fortress-47308.herokuapp.com/)
+
 ## Table of Contents
 
 * [Installation](#installation)
@@ -31,4 +33,7 @@ Email: daxburatto@gmail.com
 * JS
 * Node
 * CSS
-* Heroku 
+* Heroku
+
+![Screenshot 1](public\assets\images\Screenshot 2021-03-29 132224.jpg)
+![Screenshot 2](public\assets\images\Screenshot 2021-03-29 132137.jpg)
