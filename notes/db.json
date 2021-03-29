@@ -8,5 +8,10 @@
     "title": "Note test #2",
     "text": "Testing uuidv4  functionality",
     "id": "0da3fae6-c221-4782-ab5f-9945d8c33f25"
+  },
+  {
+    "title": "Notes are not returning prop",
+    "text": "Fix the notes",
+    "id": "d0278f52-8296-41ae-9a19-7fb606a5d81a"
   }
 ]

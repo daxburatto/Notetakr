@@ -18,6 +18,7 @@ router.delete('/notes/:id', (req, res) => {
 })
 
 router.post('/notes', (req, res) => {
+    // creates a unique id for each note
     req.body.id = uuidv4()
     const note = saveNote(req.body, db)
     res.json(note)
