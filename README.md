@@ -35,5 +35,5 @@ Email: daxburatto@gmail.com
 * CSS
 * Heroku
 
-![Screenshot 1](public\assets\images\Screenshot-1.png)
-![Screenshot 2](public\assets\images\Screenshot-2.png)
+![Pic 1](public/assets/images/Screenshot-1.png)
+![Pic 2](public/assets/images/Screenshot-2.png)
