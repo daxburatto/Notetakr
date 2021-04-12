@@ -27,7 +27,6 @@ Organization
 
 Credit to Paden for the help with the lib folder and deleting
 [Paden's Github](https://github.com/padenallen15)
-Email: daxburatto@gmail.com
 
 ## Built Using
 
